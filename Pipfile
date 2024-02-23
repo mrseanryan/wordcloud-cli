@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+wordcloud = "~=1.9.3"
+pandas = "~=2.1.0"
+matplotlib = "~=3.7.2"
+fastparquet = "~=2024.2.0"
+pillow = "~=10.0.0"
+numpy = "~=1.25.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

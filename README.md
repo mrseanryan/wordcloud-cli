@@ -1,4 +1,4 @@
-# word-cloud-etl
+# wordcloud-cli
 
 Generate wordcloud images from a data file: raw text, CSV or Parquet.
 

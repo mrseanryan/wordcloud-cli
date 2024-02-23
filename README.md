@@ -40,6 +40,8 @@ pipenv run python main.py examples\king_lear.txt   word     images\mask.small.pn
 
 ## Setup
 
+Python: 3.11.8+
+
 ```shell
 pipenv install
 ```

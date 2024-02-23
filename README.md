@@ -42,8 +42,12 @@ pipenv run python main.py examples\king_lear.txt   word     images\mask.small.pn
 
 ```shell
 pipenv install
-pipenv shell
-python main.py <path to parquet file> <word column name>
+```
+
+## Usage
+
+```shell
+pipenv run python main.py <path to data file> <word column name> <path to mask.png>
 ```
 
 ## References
